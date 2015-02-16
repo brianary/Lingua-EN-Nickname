@@ -1,5 +1,8 @@
 Revision history for Perl extension Lingua::EN::Nickname.
 
+1.31 Mon 16 Feb 2015 10:45:43 AM PST 
+  * added to github: https://github.com/brianary/Lingua-EN-Nickname
+
 1.23
   * added license
 
