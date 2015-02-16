@@ -1,0 +1,6 @@
+*~
+*.old
+*.gz
+MYMETA.*
+Makefile
+
