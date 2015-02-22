@@ -18,7 +18,7 @@ $loaded = 1;
 # of the test code):
 
 use Test;
-BEGIN { plan tests => 12 }
+BEGIN { plan tests => 17 }
 
 ok(nickname_eq(split)) while(<DATA>);
 ok(!nickname_eq(qw(Lisa Bart)));

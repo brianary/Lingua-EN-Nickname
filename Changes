@@ -1,5 +1,8 @@
 Revision history for Perl extension Lingua::EN::Nickname.
 
+1.34 Sat 21 Feb 2015 11:43:16 PM PST 
+  * corrected test count
+
 1.33 Sat 21 Feb 2015 10:04:48 PM PST 
   * added tests to cover CPAN bug #76536
 

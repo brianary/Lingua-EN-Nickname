@@ -70,7 +70,7 @@ use strict;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
 use vars qw(%root %multi %match %akin);
 
-$VERSION=     '1.33';
+$VERSION=     '1.34';
 @ISA=         qw(Exporter);
 @EXPORT=      qw(nickname_eq nickroot);
 @EXPORT_OK=   qw(nickmatch nickfollow);
