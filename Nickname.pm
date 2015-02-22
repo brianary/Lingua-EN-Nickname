@@ -54,6 +54,10 @@ be less certain about them, but match more.
 
 =back
 
+=head1 REPOSITORY
+
+L<https://github.com/brianary/Lingua-EN-Nickname>
+
 =head1 AUTHOR
 
 Brian Lalonde, E<lt>brian@webcoder.infoE<gt>
