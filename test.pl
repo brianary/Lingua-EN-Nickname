@@ -25,6 +25,8 @@ ok(!nickname_eq(qw(Lisa Bart)));
 
 
 __END__
+Liz     Beth
+Peggy   Margaret
 Charlie Chuck
 Brian   Ryan
 Ada     Adaline
@@ -36,3 +38,6 @@ Ali     Alice
 Mari    Mary
 Mary    Anna
 Mary    Maryanne
+Becky   Rebecca
+Ricky   Richard
+Vicky   Victoria

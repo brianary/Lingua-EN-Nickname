@@ -1,5 +1,8 @@
 Revision history for Perl extension Lingua::EN::Nickname.
 
+1.33 Sat 21 Feb 2015 10:04:48 PM PST 
+  * added tests to cover CPAN bug #76536
+
 1.31 Mon 16 Feb 2015 10:45:43 AM PST 
   * added to github: https://github.com/brianary/Lingua-EN-Nickname
 
