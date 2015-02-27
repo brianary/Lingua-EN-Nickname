@@ -1,5 +1,8 @@
 Revision history for Perl extension Lingua::EN::Nickname.
 
+1.36 Fri 27 Feb 2015 01:12:57 PM PST 
+  * Upgraded ExtUtils::MakeMaker and repackaged (no functionality changes)
+
 1.35 Sun 22 Feb 2015 10:03:45 PM PST 
   * Added github repo to dist metadata and pod
 
